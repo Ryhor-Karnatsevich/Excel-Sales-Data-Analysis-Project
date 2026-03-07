@@ -10,7 +10,7 @@ The goal of this project is to identify sales trends by cleaning the dataset, pe
 - Data Cleaning
 - Dashboard Design
 
-1. Data Cleaning
+# 1. Data Cleaning
 
 - Checked the dataset for duplicate records (none found)
 - Removed rows with missing Postal Code values (11 rows)
@@ -23,7 +23,7 @@ The goal of this project is to identify sales trends by cleaning the dataset, pe
 Ensured the dataset was consistent before starting the analysis.
 
 
-2. Data Transformation
+# 2. Data Transformation
 
 - Created Order Year,Quarter,Month columns
 These columns allow sales performance to be analyzed over time
@@ -31,7 +31,7 @@ These columns allow sales performance to be analyzed over time
 - Created Sales Category, divided into Low, Medium and High segments using the PERCENTILE.INC
 
 
-3. Data Analysis
+# 3. Data Analysis
 
 Created 5 pivot tables:
 1.Count of orders by category
@@ -41,7 +41,7 @@ Created 5 pivot tables:
 5.Total order count
 - Calculated Average Order Value
 
-4. Dashboard
+# 4. Dashboard
 
 An interactive Excel dashboard was created to summarize key insights.
 
@@ -68,6 +68,7 @@ Interactive slicers were added to allow filtering the dashboard by key categorie
 The analysis provides insights into regional sales performance, order distribution across product categories, delivery efficiency across shipping modes, and time trends.
 
 The dashboard provides quick access to key metrics and helps identify important sales patterns.
+
 
 
 
