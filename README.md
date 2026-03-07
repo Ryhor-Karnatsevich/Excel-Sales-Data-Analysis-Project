@@ -36,11 +36,12 @@ These columns allow sales performance to be analyzed over time
 ### 3. Data Analysis
 
 Created 5 pivot tables:
-1.Count of orders by category
-2.Sum of sales by Region
-3.Sum of sales by Year and Month
-4.Average delivery time by Shipping mode
-5.Total order count
+- 1.Count of orders by category
+- 2.Sum of sales by Region
+- 3.Sum of sales by Year and Month
+- 4.Average delivery time by Shipping mode
+- 5.Total order count
+
 - Calculated Average Order Value
 
 ### 4. Dashboard
@@ -70,6 +71,7 @@ Interactive slicers were added to allow filtering the dashboard by key categorie
 The analysis provides insights into regional sales performance, order distribution across product categories, delivery efficiency across shipping modes, and time trends.
 
 The dashboard provides quick access to key metrics and helps identify important sales patterns.
+
 
 
 
