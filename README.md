@@ -42,7 +42,7 @@ Created 5 pivot tables:
 - Average delivery time by Shipping mode
 - Total order count
 
-- Also Calculated Average Order Value
+Also Calculated Average Order Value
 
 ### 4. Dashboard
 
@@ -71,6 +71,7 @@ Interactive slicers were added to allow filtering the dashboard by key categorie
 The analysis provides insights into regional sales performance, order distribution across product categories, delivery efficiency across shipping modes, and time trends.
 
 The dashboard provides quick access to key metrics and helps identify important sales patterns.
+
 
 
 
