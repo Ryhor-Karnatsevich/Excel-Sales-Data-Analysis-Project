@@ -4,6 +4,7 @@ Dataset: Global Superstore dataset (9800 records)
 
 Dataset source: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
+##  Project Overview
 The goal of this project is to identify sales trends by cleaning the dataset, performing analysis, and creating an interactive dashboard with key metrics.
 
 ### Tools Used
@@ -71,6 +72,7 @@ Interactive slicers were added to allow filtering the dashboard by key categorie
 The analysis provides insights into regional sales performance, order distribution across product categories, delivery efficiency across shipping modes, and time trends.
 
 The dashboard provides quick access to key metrics and helps identify important sales patterns.
+
 
 
 
