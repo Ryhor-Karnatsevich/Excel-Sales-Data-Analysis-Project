@@ -5,7 +5,17 @@ Dataset: Global Superstore dataset (9800 records)
 Dataset source: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
 ##  Project Overview
-The goal of this project is to identify sales trends by cleaning the dataset, performing analysis, and creating an interactive dashboard with key metrics.
+The objective of this project was to develop an interactive end-to-end Sales Dashboard to track regional performance and supply chain efficiency. I focused on converting 9,800+ records of raw transactional data into a dynamic visual tool that allows stakeholders to perform real-time trend analysis. The project highlights the use of advanced pivot-modeling and slicer-driven interactivity for executive-level decision-making.
+
+Key Objectives:
+
+Time-Series Analysis: Engineering Year/Quarter/Month dimensions to uncover seasonal sales patterns and growth trends.
+
+Supply Chain Optimization: Calculating and visualizing "Shipping Days" to monitor delivery efficiency across different logistics modes.
+
+Statistical Segmentation: Utilizing PERCENTILE.INC to create objective, data-driven sales categories (Low, Medium, High).
+
+Dynamic Visualization: Designing a comprehensive dashboard with synchronized Slicers, enabling deep-dives into Category, Region, and Time metrics.
 
 ### Tools Used
 - Microsoft Excel
@@ -72,6 +82,7 @@ Interactive slicers were added to allow filtering the dashboard by key categorie
 The analysis provides insights into regional sales performance, order distribution across product categories, delivery efficiency across shipping modes, and time trends.
 
 The dashboard provides quick access to key metrics and helps identify important sales patterns.
+
 
 
 
